@@ -1,4 +1,2 @@
 minApprovals:
-  COLLABORATOR: 1
-requiredLabels:
-- merge
+  CONTRIBUTOR: 1
