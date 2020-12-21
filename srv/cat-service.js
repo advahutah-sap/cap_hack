@@ -14,4 +14,5 @@ module.exports = function (){
       each.title += ` -- 11% discount!`
     }
   })
+  
 }
