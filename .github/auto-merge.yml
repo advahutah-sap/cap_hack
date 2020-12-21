@@ -1,0 +1,4 @@
+minApprovals:
+  COLLABORATOR: 1
+requiredLabels:
+- merge
