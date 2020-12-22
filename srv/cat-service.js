@@ -13,5 +13,5 @@ module.exports = function (){
     if (each.stock > 111) {
       each.title += ` -- 11% discount!`
     }
-  })
+  });
 }
